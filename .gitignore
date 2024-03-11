@@ -2,3 +2,4 @@
 __pycache__/
 *.bin
 *.npz
+dog_bred_identification_files/*
